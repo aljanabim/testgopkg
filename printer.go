@@ -1,4 +1,4 @@
-package gotestpkg
+package testgopkg
 
 import "runtime"
 

@@ -1,3 +1,3 @@
-module github.com/aljanabim/gotestpkg
+module github.com/aljanabim/testgopkg
 
 go 1.16
